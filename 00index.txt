@@ -1,0 +1,12 @@
+-rw-r--r--  1 baron  users  16982 Sep 23 21:10:12 1994 BGDRV302.BFD
+-rw-r--r--  1 baron  users  18006 Feb  8 17:36:10 1997 bgdrv.o
+-rw-r--r--  1 baron  users  69560 Feb  8 17:34:24 1997 bgdrv.s
+-rwxr-xr-x  1 baron  users  16582 Feb  8 17:36:12 1997 bgdrv.x
+-rw-r--r--  1 baron  users   5044 Feb  8 17:34:22 1997 bgdrv302.lab
+-rwxr-xr-x  1 baron  users  16582 Sep 23 21:09:54 1994 bgdrv302.x
+
+orig:
+total 104
+-rw-r--r--  1 baron  users   5044 Feb  8 17:34:22 1997 bgdrv302.lab
+-rw-r--r--  1 baron  users  69560 Feb  8 17:34:24 1997 bgdrv302.s
+-rwxr-xr-x  1 baron  users  16582 Sep 23 21:09:54 1994 bgdrv302.x
